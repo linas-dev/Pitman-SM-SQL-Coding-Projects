@@ -1,1 +1,1 @@
-# Pitman-SM-SQL-Projects
+# Pitman-SM-SQL-Coding-Projects
